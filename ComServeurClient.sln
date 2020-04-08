@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{9B1D56D3-6CEB-482B-BE05-71C5A1F17DFA}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ComServeurClient", "PythonApplication1\ComServeurClient.pyproj", "{9B1D56D3-6CEB-482B-BE05-71C5A1F17DFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
