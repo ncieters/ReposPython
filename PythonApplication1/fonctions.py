@@ -8,7 +8,7 @@ import pickle
 from random import choice
 
 from donnees import *
-
+#region
 # Gestion des scores
 
 def recup_scores():
@@ -28,7 +28,7 @@ def recup_scores():
     else: # Le fichier n'existe pas
         scores = {}
     return scores
-
+#endregion
 def enregistrer_scores(scores):
     """Cette fonction se charge d'enregistrer les scores dans le fichier
     nom_fichier_scores. Elle reçoit en paramètre le dictionnaire des scores
