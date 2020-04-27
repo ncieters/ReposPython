@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b84f2a73-1477-4e01-882e-18cb0493c169</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>TpCasino.py</StartupFile>
+    <StartupFile>test_random.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -46,6 +46,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PythonApplication1.py" />
+    <Compile Include="test_random.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="TpCasino.py">
       <SubType>Code</SubType>
     </Compile>
