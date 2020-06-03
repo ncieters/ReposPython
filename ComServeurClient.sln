@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ComServeurClient", "ComServ
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{B84F2A73-1477-4E01-882E-18CB0493C169}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Game", "Game\Game.pyproj", "{E43F6A2A-4FFF-457E-821D-1FD95EE37BBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{9B1D56D3-6CEB-482B-BE05-71C5A1F17DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B84F2A73-1477-4E01-882E-18CB0493C169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B84F2A73-1477-4E01-882E-18CB0493C169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43F6A2A-4FFF-457E-821D-1FD95EE37BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43F6A2A-4FFF-457E-821D-1FD95EE37BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
